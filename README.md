@@ -1,7 +1,7 @@
 # Quickbase-Add-Replace-Database-Page-Using-XML
 Add or Replace Quickbase Database Page Using XML Formatted Payload 
 
-# How To Run This Configuration
+# How To Run This Configuration Using Terminal
 <b>FOR EXISTING FILES:</b><br>
 1. FOLDER_NAME -- Add the path where the code page is located locally.<br>
 2. FILE_NAME -- Add the file name of the exact file you would like to update.<br>
